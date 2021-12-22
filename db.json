@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "login": "jukita",
+            "password": "limas123",
+            "name": "Leandro",
+            "telephone": "+5532945201442",
+            "age": 21,
+            "email": "kakis@gmail.com",
+            "adress":[
+                {
+                    "street": "street one one",
+                    "number": 223,
+                    "district": "Gamarra"
+                }
+            ]
+        },
+        {
+            "login": "limastre",
+            "password": "merda123",
+            "name": "Renato",
+            "telephone": "+5532998745624",
+            "age": 17,
+            "email": "glicosy@gmail.com",
+            "adress":[
+                {
+                    "street": "street one one",
+                    "number": 152,
+                    "district": "Sassafras"
+                }
+            ]
+        },
+        {
+            "login": "vicost",
+            "password": "lol12333",
+            "name": "Bernardo",
+            "telephone": "+5532118745624",
+            "age": 32,
+            "email": "basculho@gmail.com",
+            "adress":[
+                {
+                    "street": "Rua Lenda zica",
+                    "number": 115,
+                    "district": "Center"
+                }
+            ]
+        }
+    ]
+}
